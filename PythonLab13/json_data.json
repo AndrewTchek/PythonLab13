@@ -1,0 +1,38 @@
+[
+   {
+      "Surname": "Graves",
+      "Position": "CEO",
+      "Salary": 17000.0,
+      "Gender": "M"
+   },
+   {
+      "Surname": "Johnson",
+      "Position": "Developer",
+      "Salary": 4500.0,
+      "Gender": "F"
+   },
+   {
+      "Surname": "King",
+      "Position": "Developer",
+      "Salary": 11000.0,
+      "Gender": "M"
+   },
+   {
+      "Surname": "Bradley",
+      "Position": "TeamLead",
+      "Salary": 12500.0,
+      "Gender": "M"
+   },
+   {
+      "Surname": "Todd",
+      "Position": "Manager",
+      "Salary": 7400.0,
+      "Gender": "M"
+   },
+   {
+      "Surname": "Smith",
+      "Position": "Designer",
+      "Salary": 7000.0,
+      "Gender": "F"
+   }
+]
