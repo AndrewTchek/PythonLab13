@@ -1,0 +1,62 @@
+[
+   {
+      "Surname": "Graves",
+      "Position": "CEO",
+      "Salary": 17000.0,
+      "Gender": "M"
+   },
+   {
+      "Surname": "Johnson",
+      "Position": "Developer",
+      "Salary": 4500.0,
+      "Gender": "F"
+   },
+   {
+      "Surname": "King",
+      "Position": "Developer",
+      "Salary": 11000.0,
+      "Gender": "M"
+   },
+   {
+      "Surname": "Bradley",
+      "Position": "TeamLead",
+      "Salary": 12500.0,
+      "Gender": "M"
+   },
+   {
+      "Surname": "Todd",
+      "Position": "Manager",
+      "Salary": 7400.0,
+      "Gender": "M"
+   },
+   {
+      "Surname": "Smith",
+      "Position": "Designer",
+      "Salary": 7000.0,
+      "Gender": "F"
+   },
+   {
+      "Surname": "Oleg",
+      "Position": "Manager",
+      "Salary": 3000.0,
+      "Gender": "M"
+   },
+   {
+      "Surname": "Misha",
+      "Position": "Designer",
+      "Salary": 8200.0,
+      "Gender": "M"
+   },
+   {
+      "Surname": "Brown",
+      "Position": "Intern",
+      "Salary": 2000.0,
+      "Gender": "F"
+   },
+   {
+      "Surname": "Taylor",
+      "Position": "Analyst",
+      "Salary": 6000.0,
+      "Gender": "M"
+   }
+]
